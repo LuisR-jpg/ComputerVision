@@ -1,23 +1,26 @@
 # Image processing
 
-- Edge detection
+## Edge and corner detection methods
 
-- Filtros de Haar
+    - Filtros de Haar *Integral image
 
-Los kernels funcionan, pero no reconoce bordes gruesos.
+    - Using gradient *LPF, gradient, delete spots
 
-Entonces esta solucion propone utilizar varios kernels que tengan distintas formas y tamanios. De esta forma encuentra bordes distintos.
+    - Canny edge detection *OpenCV
 
-Dichas caracteristicas, pueden no ser bordes, sino sombras, como facciones de una cara.
+    - Edge detection comparison *Clean image, high-pass
 
-Debilidades:
+    - Moravec
 
-Media sensible al ruido.
-ES CARO
+## Image segmentation
 
-Se resuelve con imagen integral:
-Es un concepto sencillo, donde cada pixel es la suma de todos los valores hacia la izquierda y arriba
+    - Girl face *ROC curve, region growing algorithm, mean shift
 
+    
+
+## Denoising
+
+    - Using image patching *Integral image
 
 # Computer vision
 
