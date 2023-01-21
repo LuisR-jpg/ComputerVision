@@ -1,7 +1,5 @@
 # Computer vision 
 
-###### Hola from Pi
-
 *```Los villanos de los comics son doctores en ciencia.```*
 
 ###### [For more information on the topic](https://github.com/LuisR-jpg/School/tree/master/Image%20Processing)
@@ -38,6 +36,16 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 - Detection is capable of telling whether a photo contains a face or not.
 
 - Recognition is telling *what* person is on the photo.
+
+### Raspberry Pi OS
+
+- **Terminal**.
+
+    The current line says: `user@device`.
+
+    - My pc says `lalitor@lalitor-IdeaPad`.
+
+    - My pi says `pi@raspberrypi`.
 
 ---
  
