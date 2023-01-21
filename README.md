@@ -1,5 +1,7 @@
 # Computer vision 
 
+###### Hola from Pi
+
 *```Los villanos de los comics son doctores en ciencia.```*
 
 ###### [For more information on the topic](https://github.com/LuisR-jpg/School/tree/master/Image%20Processing)
