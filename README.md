@@ -2,6 +2,8 @@
 
 *```Los villanos de los comics son doctores en ciencia.```*
 
+###### [For more information on the topic](https://github.com/LuisR-jpg/School/tree/master/Image%20Processing)
+
 --- 
 ## January 14th
 
@@ -26,5 +28,14 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 
 ---
 ## January 21st
+
+### Projects
+
+#### Face recognition vs face detection
+
+- Detection is capable of finding whether a photo contains a face or not.
+
+- Recognition is telling *what* person is on the photo.
+
+---
  
-###### [For more information on the topic](https://github.com/LuisR-jpg/School/tree/master/Image%20Processing)
