@@ -51,6 +51,10 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 
         Shows all the previous commands on the terminal.
 
+    - `sudo raspi-config` 
+
+        Advanced settings
+
 
 
 ---
