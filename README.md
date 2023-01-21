@@ -41,11 +41,17 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 
 - **Terminal**.
 
-    The current line says: `user@device`.
+    - The current line says: `user@device`.
 
-    - My pc says `lalitor@lalitor-IdeaPad`.
+        - My pc says `lalitor@lalitor-IdeaPad`.
 
-    - My pi says `pi@raspberrypi`.
+        - My pi says `pi@raspberrypi`.
+
+    - `history`
+
+        Shows all the previous commands on the terminal.
+
+
 
 ---
  
