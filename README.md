@@ -33,7 +33,7 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 
 #### Face recognition vs face detection
 
-- Detection is capable of finding whether a photo contains a face or not.
+- Detection is capable of telling whether a photo contains a face or not.
 
 - Recognition is telling *what* person is on the photo.
 
