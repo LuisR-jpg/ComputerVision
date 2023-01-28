@@ -17,10 +17,6 @@ Es una plataforma abierta (open hardware) que permite desarrollar muchas aplicac
 
 Tiene un sistema operativo diseniado especificamente para la tarjeta llamado: *Raspbian*. Hecho con `python`.
 
-#### Thonny
-
-Es un IDE profesional desarrollado para Raspberry.
-
 #### GPIO
 
 General purpose input output port. It's a set of pins designed to read sensors, send signals, etc.
@@ -55,6 +51,12 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 
         Advanced settings
 
+    - Update the OS
+
+        - `sudo apt update`
+
+        - `sudo apt ugrade`
+
 
 ---
 ## January 28th
@@ -76,6 +78,10 @@ General purpose input output port. It's a set of pins designed to read sensors, 
     - Vivaldi
 
     - Midori. Lite browser, kinda ugly
+
+- Thonny
+
+    Es un IDE profesional desarrollado para Raspberry.
 
 ---
 ## Extra resources
