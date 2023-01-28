@@ -53,9 +53,9 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 
     - Update the OS
 
-        - `sudo apt update`
+        - `sudo apt update`. Recommended every time the PI is used. 
 
-        - `sudo apt ugrade`
+        - `sudo apt ugrade`. Every 3 months.
 
 
 ---
@@ -78,6 +78,10 @@ General purpose input output port. It's a set of pins designed to read sensors, 
     - Vivaldi
 
     - Midori. Lite browser, kinda ugly
+
+- Evince
+
+    Document reader
 
 - Thonny
 
