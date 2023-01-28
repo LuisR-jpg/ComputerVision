@@ -97,6 +97,10 @@ Un lenguaje de alto nivel es legible para los humanos.
 
 - Variables
 
+- PEP
+
+    Reglas establecidas para el buen uso de la programacion en python.
+
 ---
 ## Resources
 
