@@ -35,7 +35,7 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 
 - Detection is capable of telling whether a photo contains a face or not.
 
-- Recognition is telling *what* person is on the photo.
+- Recognition is telling *who* is on the photo.
 
 ### Raspberry Pi OS
 
@@ -56,6 +56,31 @@ General purpose input output port. It's a set of pins designed to read sensors, 
         Advanced settings
 
 
+---
+## January 28th
+
+### Neat raspberry pi apps
+
+- CoinOPS Legends.
+
+    STEM lab's own project. 
+
+- LibreOffice
+
+- Browsers
+
+    - Chromium
+
+    - Firefox
+
+    - Vivaldi
+
+    - Midori. Lite browser, kinda ugly
 
 ---
+## Extra resources
+
+**[Teacher's tiktok](https://www.tiktok.com/@vitoremorleone)**
+
+
  
