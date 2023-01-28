@@ -87,8 +87,18 @@ General purpose input output port. It's a set of pins designed to read sensors, 
 
     Es un IDE profesional desarrollado para Raspberry.
 
+### Python
+
+Un lenguaje de alto nivel es legible para los humanos.
+
+#### Temas
+
+- Comentarios
+
+- Variables
+
 ---
-## Extra resources
+## Resources
 
 **[Teacher's tiktok](https://www.tiktok.com/@vitoremorleone)**
 
