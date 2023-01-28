@@ -101,6 +101,7 @@ Un lenguaje de alto nivel es legible para los humanos.
 
     Reglas establecidas para el buen uso de la programacion en python.
 
+- Operadores aritmeticos
 ---
 ## Resources
 
