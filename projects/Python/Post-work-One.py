@@ -45,11 +45,12 @@ coincidirán, por primera vez?
 
 # La primera vez que coinciden es a las 7h.
 
-# La segunda vez que coinciden es el minimo comun multiplo de sus tiempos.
+# La segunda vez que coinciden en el lugar donde empezaron es el minimo comun multiplo de sus tiempos.
 # mcm(a, b) = (a * b) / mcd(a, b)
 import math
 a, b, c = 32, 40, 44
 coincidir = (a*b*c)/math.gcd(math.gcd(a, b), c)
+print(coincidir)
 coincidir += 7 * 60 #Empiezan 7h
 minutes = coincidir % 60
 coincidir //= 60
@@ -57,3 +58,5 @@ horas = coincidir % 24
 coincidir //= 24
 dias = coincidir 
 print("Respuesta 3.1: ", dias, " dias despues a las ", int(horas), ":", int(minutes), sep = "")
+
+# Si deseamos saber cuando coinciden en cualquier otro punto de la pista: no se
