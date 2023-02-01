@@ -30,9 +30,9 @@ El cuarto cogió 600 pesos, más la quinta parte de los bienes.
 suma = -3000 - 1000 + 600
 coef = 1/2 + 1/3 + 1/4 + 1/5
 # f = suma + coef*f
-# suma = f*(coef - 1)
-# f = suma/(coef - 1)
-print("Respuesta 2.1:", suma / (coef - 1))
+# -suma = f*(coef - 1)
+# f = -suma/(coef - 1)
+print("Respuesta 2.1:", -suma / (coef - 1))
 
 '''
  Ejercicio 7.3
@@ -47,8 +47,13 @@ coincidirán, por primera vez?
 
 # La segunda vez que coinciden es el minimo comun multiplo de sus tiempos.
 # mcm(a, b) = (a * b) / mcd(a, b)
-
 import math
 a, b, c = 32, 40, 44
-print("Respuesta 3.1:", (a*b*c)/math.gcd(math.gcd(a, b), c))
-
+coincidir = (a*b*c)/math.gcd(math.gcd(a, b), c)
+coincidir += 7 * 60 #Empiezan 7h
+minutes = coincidir % 60
+coincidir //= 60
+horas = coincidir % 24 
+coincidir //= 24
+dias = coincidir 
+print("Respuesta 3.1: ", dias, " dias despues a las ", int(horas), ":", int(minutes), sep = "")
