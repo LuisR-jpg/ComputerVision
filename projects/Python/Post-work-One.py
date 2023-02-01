@@ -50,7 +50,6 @@ coincidirán, por primera vez?
 import math
 a, b, c = 32, 40, 44
 coincidir = (a*b*c)/math.gcd(math.gcd(a, b), c)
-print(coincidir)
 coincidir += 7 * 60 #Empiezan 7h
 minutes = coincidir % 60
 coincidir //= 60
