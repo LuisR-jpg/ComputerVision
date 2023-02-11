@@ -107,5 +107,16 @@ Un lenguaje de alto nivel es legible para los humanos.
 
 **[Teacher's tiktok](https://www.tiktok.com/@vitoremorleone)**
 
+---
+
+## February 11th
+
+### Collections
+
+|Attribute  |Listas |Tuplas |Sets   |Diccionarios   |
+|---        |---    |---    |---    |---            |
+|Ordenada   |[x]    |[x]    |[ ]    |[ ]            |
+|Mutable    |[x]    |[ ]    |[ ]    |[ ]            |
+
 
  
