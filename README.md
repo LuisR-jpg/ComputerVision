@@ -115,7 +115,7 @@ Un lenguaje de alto nivel es legible para los humanos.
 
 |Attribute  |Listas |Tuplas |Sets   |Diccionarios   |
 |---        |:---:  |:---:  |:---:  |:---:          |
-|Ordenada   | - [x]    |[x]    |[ ]    |[ ]            |
+|Ordenada   | :white_square_button: |[x]    |[ ]    |[ ]            |
 |Mutable    |[x] Hola    |[ ]    |[ ]    |[ ]            |
 
 
