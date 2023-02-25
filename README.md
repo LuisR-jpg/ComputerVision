@@ -21,6 +21,13 @@ Tiene un sistema operativo diseniado especificamente para la tarjeta llamado: *R
 
 General purpose input output port. It's a set of pins designed to read sensors, send signals, etc.
 
+#### Credentials
+
+Username: pi
+
+Default Password: raspberry
+
+My Password: lRaspberry
 
 ---
 ## January 21st
@@ -117,3 +124,18 @@ Un lenguaje de alto nivel es legible para los humanos.
 |---        |:---:  |:---:  |:---:          |:---:          |
 |Ordenada   |[x]    |[x]    |[ ] No indices |[ ]            |
 |Mutable    |[x]    |[ ]    |[x]            |[ ]            |
+
+---
+## February 25th
+
+### Protoboard
+
+Cables:
+
+Rojo/Blanco/Naranja - 3.3/5 volts
+Azul/Negro/Cafe     - 0 volts
+
+### GPIO
+
+General Purpose Input Output
+
