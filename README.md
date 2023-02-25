@@ -117,6 +117,3 @@ Un lenguaje de alto nivel es legible para los humanos.
 |---        |:---:  |:---:  |:---:          |:---:          |
 |Ordenada   |[x]    |[x]    |[ ] No indices |[ ]            |
 |Mutable    |[x]    |[ ]    |[x]            |[ ]            |
-
-
- 
