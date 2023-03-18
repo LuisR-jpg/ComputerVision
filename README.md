@@ -146,4 +146,25 @@ General Purpose Input Output
 
 ``` bash
 sudo pip3 install opencv-contrib-python==4.4.0.46
+
+# Verify installation
+python
+import cv2
+cv2.__version__
 ```
+
+### Black box
+
+It's a term used in science. Machine Learning algorithm are usually seen as black boxes, since the series of steps within are very complex and not completely understood. 
+So, a black box insight is just understanding something that takes an input and provides an output.
+
+### Digital images
+
+Sizes:
+
+Name        |   Size
+---         |---
+VGA         |640 x 480
+HD          |1280 x 720
+FHD         |1920 x 1080
+4K          |2160 x 3840
