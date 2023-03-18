@@ -139,3 +139,11 @@ Azul/Negro/Cafe     - 0 volts
 
 General Purpose Input Output
 
+---
+## March 18th
+
+### Install OpenCV
+
+``` bash
+sudo pip3 install opencv-contrib-python==4.4.0.46
+```
